@@ -3,4 +3,6 @@ Assignments for Pipeline Class
 
 ```python
 # code goes here
+import maya.cmds
+maya.cmds.polySphere()
 ```
