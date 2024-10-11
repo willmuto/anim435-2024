@@ -4,5 +4,5 @@ Assignments for Pipeline Class
 ```python
 # code goes here
 import maya.cmds
-maya.cmds.polySphere()
+maya.cmds.polySphere(radius=10)
 ```
